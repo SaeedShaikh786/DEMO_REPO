@@ -1,0 +1,5 @@
+## initialize git
+```
+git init 
+```
+
